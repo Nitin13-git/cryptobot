@@ -1,0 +1,13 @@
+*.dll
+*.pdb
+*.exe
+obj/**
+bin/**
+**/bin/**
+**/obj/**
+runtimes/**
+*.user
+*.PublishSettings
+publish.cmd
+packages/
+.vs/
